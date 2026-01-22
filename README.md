@@ -12,7 +12,7 @@ Final Exam Advanced Blockchain Programming
 
 ## Cara Menjalankan
 1. Install MetaMask dan pilih jaringan Sepolia
-2. Pastikan wallet memiliki SepoliaETH
-3. Buka file `frontend/index.html` menggunakan Live Server
+2. Akun wallet harus mempunyai saldo SepoliaETH
+3. Buka file `frontend/index.html` dengan Live Server
 4. Connect MetaMask
 5. Simulasi sudah bisa dilakukan
